@@ -1,4 +1,4 @@
-  <a href="https://stephenajulu.com"><img src="https://cdn.lynda.com/course/802862/802862-637491275457563738-16x9.jpg" align="right" width="200px"></a>
+  <a href="https://stephenajulu.com"><img src="https://cdn.lynda.com/course/802862/802862-637491275457563738-16x9.jpg" align="right" width="400px"></a>
 <h3>Hi there! 👋<br>I'm Andrey Lavrentiev<br>a Developer, Molecular Biologist & Bioinformatician</h3>
 
 
