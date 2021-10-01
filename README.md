@@ -9,7 +9,7 @@
 
 <a href = "https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=5c950e8556374155"><img src="https://yt3.ggpht.com/a/AATXAJxjWgLOjlypnyg6xzxzvCJFXb6wYePc2-kI7tuCdg=s900-c-k-c0xffffffff-no-rj-mo" align="left" width="50px"></a>
 
-
+<a href = "https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=5c950e8556374155"><img src="https://sun9-81.userapi.com/impg/zeewrhNtnAS5zh3ZxhRKjSM-xjLLo6oDk8j38Q/p8oSkXyK7L4.jpg?size=1080x1080&quality=96&sign=12045d1ac168446de883c0153e771c1e&type=album" align="left" width="200px"></a>
 
 <!--
 
