@@ -9,7 +9,6 @@
 
 <a href = "https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=5c950e8556374155"><img src="https://ftv.msu.ru/upload/medialibrary/f6f/video.png" align="left" width="50px"></a>
 
-<a href = "https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=5c950e8556374155"><img src="https://cdn-icons-png.flaticon.com/512/3039/3039386.png" align="right" width="35px"></a>
 
 
 <!--
