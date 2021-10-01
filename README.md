@@ -7,7 +7,7 @@
 - 💬 Ask me about how to use Python and R for data analysis
 - 🌮 I'm eating a taco now
 
-<a href = "https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=5c950e8556374155"><img src="https://ftv.msu.ru/upload/medialibrary/f6f/video.png" align="left" width="50px"></a>
+<a href = "https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=5c950e8556374155"><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="left" width="50px"></a>
 
 
 
