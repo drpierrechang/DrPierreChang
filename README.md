@@ -7,7 +7,7 @@
 - 💬 Ask me about how to use Python and R for data analysis
 - 🌮 I'm eating a taco now
 
-https://sun9-72.userapi.com/impg/1caY-oGXqRZxgtybfBayNrOkk0iSMznXtteBIQ/RBdBPZ7yBR8.jpg?size=537x240&quality=96&sign=e1548e77d3515887cfb0b6d50e3d0a51&type=share
+https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=5c950e8556374155
 
 <!--
 
