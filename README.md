@@ -1,4 +1,4 @@
-  <a><img src="https://cdn.lynda.com/course/802862/802862-637491275457563738-16x9.jpg" align="right" width="400px"></a>
+  <a><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="400px"></a>
 <h3>Hi there! 👋<br>I'm Andrey Lavrentiev<br>a Developer, Molecular Biologist & Bioinformatician</h3>
 
 
@@ -7,7 +7,7 @@
 - 💬 Ask me about how to use Python and R for data analysis
 - 🌮 I'm eating a taco now
 
-<a href = "https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=5c950e8556374155"><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="left" width="50px"></a>
+<a href = "https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=5c950e8556374155"><img src="https://ftv.msu.ru/upload/medialibrary/f6f/video.png" align="left" width="50px"></a>
 
 
 
