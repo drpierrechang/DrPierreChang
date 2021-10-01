@@ -3,7 +3,6 @@
 
 
 - 🌱 I’m currently learning how memory works in Java
-![java](https://cdn.lynda.com/course/802862/802862-637491275457563738-16x9.jpg)
 - 👯 I'm looking to collaborate on the up and coming tech scene
 - 💬 Ask me about how to use Python and R for data analysis
 - 🌮 I'm eating a taco now
