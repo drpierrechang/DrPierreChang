@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning how memory works in Java
-- 👯 I'm looking to collaborate on the up and coming tech scene
+- 👯 I'm looking to collaborate on the up and coming tech
 - 💬 Ask me about how to use Python and R for data analysis
 - 🌮 I'm eating a taco now
 
