@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi | Hallo | Olá | Kumusta | హలో | नमस्ते | Здраво <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/drpierrechang/">
   <img align="left" alt="Andrey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -33,6 +33,11 @@ My name is Andrey Lavrentiev, and I've been programming and developing coding sk
 <code><img height="20" src="https://media.moddb.com/images/articles/1/131/130184/auto/linux-logo.jpg"></code>
 <code><img height="20" src="https://pluspng.com/img-png/apache-logo-png-img-free-png-apache-logo-png-img-1182-596-free-900x460.jpg"></code>
 
+<br/>
+
+**Code:**
+preferred Dev Envs are [VSCode](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/) or [Jupyter](https://jupyter.org/)
+
 <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drpierrechang&layout=compact&langs_count=10)](https://github.com/lynnlangit/github-readme-stats" 
         <br>
@@ -43,5 +48,4 @@ My name is Andrey Lavrentiev, and I've been programming and developing coding sk
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=drpierrechang&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Andrey's github stats"/>
         <br>
     </p>
-
 
