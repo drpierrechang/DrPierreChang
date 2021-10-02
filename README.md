@@ -19,8 +19,20 @@ My name is Andrey Lavrentiev, and I've been programming and developing coding sk
 
 
 - 👯 I'm looking to collaborate on the up and coming tech
-- 💬 Ask me about how to use Python and R for data analysis
-- 🌮 I'm eating a taco now
+- 💬 Ask me about anything, i am happy to help;
+
+**languages and tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://www.r-project.org/Rlogo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/43px-Java_logo.svg.png"></code>
+<code><img height="20" src="https://images.izi.ua/18640547"></code>
+<code><img height="20" src="https://logopng.com.br/logos/docker-27.svg"></code>
+<code><img height="20" src="https://im0-tub-ru.yandex.net/i?id=90d74b17d6b4c37cb2321c7387d8c30b&ref=rim&n=33&w=200&h=150"></code>
+<code><img height="20" src="https://www.theindianwire.com/wp-content/uploads/2019/11/AWS-.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://media.moddb.com/images/articles/1/131/130184/auto/linux-logo.jpg"></code>
+<code><img height="20" src="https://pluspng.com/img-png/apache-logo-png-img-free-png-apache-logo-png-img-1182-596-free-900x460.jpg"></code>
+
 
 
 
