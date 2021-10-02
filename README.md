@@ -21,7 +21,7 @@ My name is Andrey Lavrentiev, and I've been programming and developing coding sk
 - 👯 I'm looking to collaborate on the up and coming tech
 - 💬 Ask me about anything, i am happy to help;
 
-**languages and tools:**  
+**<p>Languages and tools:</p>**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://www.r-project.org/Rlogo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/43px-Java_logo.svg.png"></code>
@@ -33,17 +33,17 @@ My name is Andrey Lavrentiev, and I've been programming and developing coding sk
 <code><img height="20" src="https://media.moddb.com/images/articles/1/131/130184/auto/linux-logo.jpg"></code>
 <code><img height="20" src="https://pluspng.com/img-png/apache-logo-png-img-free-png-apache-logo-png-img-1182-596-free-900x460.jpg"></code>
 
-<br/>
+**<p>Preferred dev envs are </p>**
+[VSCode](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/) or [Jupyter](https://jupyter.org/)
 
-**Code:**
-preferred Dev Envs are [VSCode](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/) or [Jupyter](https://jupyter.org/)
+**<p>My github stats</p>**
 
-<p align="center">
+<p align="left">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drpierrechang&layout=compact&langs_count=10)](https://github.com/lynnlangit/github-readme-stats" 
         <br>
 </p>
 
-📈 my github stats
+
  <p align="center">
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=drpierrechang&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Andrey's github stats"/>
         <br>
