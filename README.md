@@ -9,16 +9,15 @@
 <a href="https://youtu.be/esX7SFtEjHg">
   <img align="left" alt="Coding YouTube Playlist" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
+<br/>
+<br/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=drpierrechang.drpierrechang)
-
-<br />
+My name is Andrey Lavrentiev, and I've been programming and developing coding skills for two years. I’m currently learning how memory works in Java🌱 
 
   
  <a><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="400px"></a>
 
 
-- 🌱 I’m currently learning how memory works in Java
 - 👯 I'm looking to collaborate on the up and coming tech
 - 💬 Ask me about how to use Python and R for data analysis
 - 🌮 I'm eating a taco now
