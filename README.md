@@ -1,5 +1,8 @@
 ### Hi | Hallo | Olá | Kumusta | హలో | नमस्ते | Здраво <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://www.codewars.com/users/DrPierreChang/stats">
+  <img align="left" alt="Andrey's Codewars" width="22px" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" />
+</a>
 <a href="https://www.linkedin.com/in/drpierrechang/">
   <img align="left" alt="Andrey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
