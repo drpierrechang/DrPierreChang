@@ -9,6 +9,7 @@ Here I will collect all sources that helping me with python
 
 # Docs
 - math https://docs.python.org/3/library/math.html
+- string https://docs.python.org/3/library/string.html
 
 # Install
 - УСТАНОВКА PYTHON 3 В UBUNTU https://losst.ru/ustanovka-python-3-ubuntu
