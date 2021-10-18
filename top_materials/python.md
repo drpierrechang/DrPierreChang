@@ -23,5 +23,8 @@ Here I will collect all sources that helping me with python
 - Using % and .format() for great good! https://pyformat.info/
 - Unicode emoji https://unicode-table.com/ru/sets/emoji/
 
+# Arithmetic
+- [Как в Python реализованы очень длинные числа типа integer?](https://habr.com/ru/company/otus/blog/489258/)
+
 
 
