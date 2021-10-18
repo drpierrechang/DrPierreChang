@@ -16,7 +16,9 @@ Here I will collect all sources that helping me with python
 # Features
 - Pattern matching https://youtu.be/0kyy_zKO86U
 
-# String Formatting
+# Strings
+- python doc https://docs.python.org/3/library/string.html
+## Strings Formatting
 - Using % and .format() for great good! https://pyformat.info/
 - Unicode emoji https://unicode-table.com/ru/sets/emoji/
 
