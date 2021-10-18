@@ -1,5 +1,10 @@
 ### Hi | Hallo | Olá | Kumusta | హలో | नमस्ते | Здраво <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+**<p>Codewars Stats</p>**
+<a href="https://youtu.be/esX7SFtEjHg">
+  <img alt="Coding YouTube Playlist" src="https://www.codewars.com/users/DrPierreChang/badges/large" />
+</a>
+
 <a href="https://www.codewars.com/users/DrPierreChang/stats">
   <img align="left" alt="Andrey's Codewars" width="22px" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" />
 </a>
@@ -39,7 +44,9 @@ My name is Andrey Lavrentiev, and I've been programming and developing coding sk
 **<p>Preferred dev envs are </p>**
 [VSCode](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/) or [Jupyter](https://jupyter.org/)
 
-**<p>My github stats</p>**
+
+
+**<p>Github Stats</p>**
 
 <p align="left">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drpierrechang&layout=compact&langs_count=10)](https://github.com/lynnlangit/github-readme-stats" 
