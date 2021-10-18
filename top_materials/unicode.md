@@ -1,0 +1,1 @@
+- [Таблица эмоджи в юникоде](https://unicode-table.com/ru/sets/emoji/)
