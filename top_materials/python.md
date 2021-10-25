@@ -26,5 +26,7 @@ Here I will collect all sources that helping me with python
 # Arithmetic
 - [Как в Python реализованы очень длинные числа типа integer?](https://habr.com/ru/company/otus/blog/489258/)
 
+# Yandex Speechkit
+- [Yandex Speechkit + Python = Синтез озвучки из текста, API](https://youtu.be/X9tDjQitINI)
 
 
