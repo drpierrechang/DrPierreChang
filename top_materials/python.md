@@ -29,4 +29,7 @@ Here I will collect all sources that helping me with python
 # Yandex Speechkit
 - [Yandex Speechkit + Python = Синтез озвучки из текста, API](https://youtu.be/X9tDjQitINI)
 
+# Other
+-[Python Alphabet | Ways to Initialize a List of the Alphabet](https://www.pythonpool.com/python-alphabet/)
+
 
