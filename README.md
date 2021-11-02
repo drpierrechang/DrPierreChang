@@ -8,6 +8,9 @@
 <a href="https://www.codewars.com/users/DrPierreChang/stats">
   <img align="left" alt="Andrey's Codewars" width="22px" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" />
 </a>
+
+<a href="https://coderbyte.com/profile/drpierrechang"><img align="left" width="22px" src="https://s3.amazonaws.com/coderbytestaticimages/badge_images/v2/Coderbyter.png"/></a>
+
 <a href="https://www.linkedin.com/in/drpierrechang/">
   <img align="left" alt="Andrey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
