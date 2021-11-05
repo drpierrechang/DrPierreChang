@@ -17,6 +17,10 @@ Here I will collect all sources that helping me with python
 # Features
 - Pattern matching https://youtu.be/0kyy_zKO86U
 
+# Containers
+
+- [Контейнеры в Python](https://youtu.be/Ms3d6M2GjwI)
+
 # Strings
 - python doc https://docs.python.org/3/library/string.html
 ## Strings Formatting
