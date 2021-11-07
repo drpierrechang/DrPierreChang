@@ -36,4 +36,8 @@ Here I will collect all sources that helping me with python
 # Other
 - [Python Alphabet | Ways to Initialize a List of the Alphabet](https://www.pythonpool.com/python-alphabet/)
 
+# Release
+
+- [Python 3.10 Release Stream — with Pablo Galindo](https://youtu.be/AHT2l3hcIJg)
+
 
