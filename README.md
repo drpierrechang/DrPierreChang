@@ -11,6 +11,8 @@
 
 <a href="https://coderbyte.com/profile/drpierrechang"><img align="left" width="22px" src="https://s3.amazonaws.com/coderbytestaticimages/badge_images/v2/Coderbyter.png"/></a>
 
+<a href="https://www.codecademy.com/profiles/DrPierreChang"><img align="left" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Codecademy.svg/220px-Codecademy.svg.png"/></a>
+
 <a href="https://www.linkedin.com/in/drpierrechang/">
   <img align="left" alt="Andrey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
