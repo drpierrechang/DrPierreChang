@@ -14,14 +14,16 @@
 <a href="https://www.linkedin.com/in/drpierrechang/">
   <img align="left" alt="Andrey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=0924cdd31cb4492b">
+<br/>
+<br/>
+<!-- <a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=0924cdd31cb4492b">
   <img align="left" alt="Coding Spotify Playlist" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://youtu.be/esX7SFtEjHg">
   <img align="left" alt="Coding YouTube Playlist" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <br/>
-<br/>
+<br/> -->
 
 My name is Andrey Lavrentiev, and I've been programming and developing coding skills for two years. I’m currently learning how memory works in Java🌱 
 
@@ -42,7 +44,7 @@ My name is Andrey Lavrentiev, and I've been programming and developing coding sk
 <code><img height="20" src="https://www.theindianwire.com/wp-content/uploads/2019/11/AWS-.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://media.moddb.com/images/articles/1/131/130184/auto/linux-logo.jpg"></code>
-<code><img height="20" src="https://pluspng.com/img-png/apache-logo-png-img-free-png-apache-logo-png-img-1182-596-free-900x460.jpg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Google_Cloud_logo.svg/220px-Google_Cloud_logo.svg.png"></code>
 
 **<p>Preferred dev envs are </p>**
 [VSCode](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/) or [Jupyter](https://jupyter.org/)
