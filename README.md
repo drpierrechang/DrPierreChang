@@ -46,7 +46,7 @@ My name is Andrey Lavrentiev, and I've been programming and developing coding sk
 <code><img height="20" src="https://media.moddb.com/images/articles/1/131/130184/auto/linux-logo.jpg"></code>
 </br>
 </br>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Google_Cloud_logo.svg/220px-Google_Cloud_logo.svg.png"></code>
+<!-- <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Google_Cloud_logo.svg/220px-Google_Cloud_logo.svg.png"></code> -->
 
 **<p>Preferred dev envs are </p>**
 [VSCode](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/) or [Jupyter](https://jupyter.org/)
