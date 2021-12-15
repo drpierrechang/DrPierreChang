@@ -44,6 +44,8 @@ My name is Andrey Lavrentiev, and I've been programming and developing coding sk
 <code><img height="20" src="https://www.theindianwire.com/wp-content/uploads/2019/11/AWS-.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://media.moddb.com/images/articles/1/131/130184/auto/linux-logo.jpg"></code>
+</br>
+</br>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Google_Cloud_logo.svg/220px-Google_Cloud_logo.svg.png"></code>
 
 **<p>Preferred dev envs are </p>**
