@@ -36,7 +36,7 @@ My name is Andrey Lavrentiev, and I've been programming and developing coding sk
 
 **<p>Languages and tools:</p>**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://www.r-project.org/Rlogo.png"></code>
+<code><img height="20" src="https://www.rstudio.com/assets/img/logo.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/43px-Java_logo.svg.png"></code>
 <code><img height="20" src="https://images.izi.ua/18640547"></code>
 <code><img height="20" src="https://logopng.com.br/logos/docker-27.svg"></code>
@@ -44,9 +44,7 @@ My name is Andrey Lavrentiev, and I've been programming and developing coding sk
 <code><img height="20" src="https://www.theindianwire.com/wp-content/uploads/2019/11/AWS-.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://media.moddb.com/images/articles/1/131/130184/auto/linux-logo.jpg"></code>
-</br>
-</br>
-<!-- <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Google_Cloud_logo.svg/220px-Google_Cloud_logo.svg.png"></code> -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Google_Cloud_logo.svg/220px-Google_Cloud_logo.svg.png"></code>
 
 **<p>Preferred dev envs are </p>**
 [VSCode](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/) or [Jupyter](https://jupyter.org/)
