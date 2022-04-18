@@ -39,7 +39,7 @@ My name is Andrey Lavrentiev, and I've been programming and developing coding sk
 **<p>Languages and tools:</p>**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://www.rstudio.com/assets/img/logo.svg"></code>
-<code><img height="20" src="https://fastapi.tiangolo.com/img/icon-white.svg"></code>
+<code><img height="20" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></code>
 <code><img height="20" src="https://images.izi.ua/18640547"></code>
 <code><img height="20" src="https://logopng.com.br/logos/docker-27.svg"></code>
 <code><img height="20" src="https://im0-tub-ru.yandex.net/i?id=90d74b17d6b4c37cb2321c7387d8c30b&ref=rim&n=33&w=200&h=150"></code>
