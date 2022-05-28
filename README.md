@@ -27,7 +27,7 @@
 <br/>
 <br/> -->
 
-My name is Andrey Lavrentiev, and I've been programming and developing coding skills for two years. I’m currently learning FastAPI framework🌱 
+My name is Andrey Lavrentiev. I’m currently learning FastAPI framework🌱 
 
   
  <a><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="400px"></a>
