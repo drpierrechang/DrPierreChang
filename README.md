@@ -1,4 +1,6 @@
-### Hi | 안녕 | Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi | 안녕 | Привет <img src="https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif" width="100">
+
+
 
 **<p>Codewars Stats</p>**
 <a href="https://www.codewars.com/users/DrPierreChang">
