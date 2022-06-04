@@ -32,7 +32,7 @@
 Python Developer at YLab🌱 
 
   
- <a><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="400px"></a>
+ <a><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="400"></a>
 
 
 - 👯 I'm looking to collaborate on the up and coming tech
