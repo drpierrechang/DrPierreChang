@@ -29,14 +29,13 @@
 <br/>
 <br/> -->
 
-Python Developer at YLab🌱 
+Python Developer at YLab 🌱 
 
   
  <a><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="400"></a>
 
 
-- 👯 I'm looking to collaborate on the up and coming tech
-- 💬 Ask me about anything, i am happy to help;
+
 
 **<p>Languages and tools:</p>**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
