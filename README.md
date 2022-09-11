@@ -50,7 +50,7 @@ Python Developer at YLab 🌱
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Google_Cloud_logo.svg/220px-Google_Cloud_logo.svg.png"></code>
 
 **<p>Preferred dev envs are </p>**
-[VSCode](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/) or [Jupyter](https://jupyter.org/)
+[PyCharm](https://www.jetbrains.com/pycharm/) or [Jupyter](https://jupyter.org/)
 
 
 
