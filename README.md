@@ -7,7 +7,7 @@
   <img alt="Coding YouTube Playlist" src="https://www.codewars.com/users/drpierrechang/badges/large" />
 </a>
 
-<a href="https://www.codewars.com/users/DrPierreChang/stats">
+<a href="https://www.codewars.com/users/drpierrechang/stats">
   <img align="left" alt="Andrey's Codewars" width="22px" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />
 </a>
 
