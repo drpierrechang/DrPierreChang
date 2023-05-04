@@ -3,7 +3,7 @@
 
 
 **<p>Codewars Stats</p>**
-<a href="https://www.codewars.com/users/DrPierreChang">
+<a href="https://www.codewars.com/users/drpierrechang">
   <img alt="Coding YouTube Playlist" src="https://www.codewars.com/users/drpierrechang/badges/large" />
 </a>
 
